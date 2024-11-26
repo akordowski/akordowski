@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there :wave:
 
-<!--
-**akordowski/akordowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Artur. I'm a passionate developer working with the Microsoft tech stack.
 
-Here are some ideas to get you started:
+- :hammer: I'm working for [Xebia Microsoft Services (XMS) Germany](https://xebia.com/about-us)
+- :seedling: I’m currently learning AI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### :medal_sports: Certifications:
+
+![](https://images.credly.com/size/150x150/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)
+
+[<img src="https://images.credly.com/size/150x150/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png">](https://www.credly.com/badges/dca49898-11f6-456c-9ddf-09396383055e/public_url)
+[<img src="https://images.credly.com/size/150x150/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png">](https://www.credly.com/badges/5e26e396-92c6-4dcb-a9f2-fa6f87229b99/public_url)
